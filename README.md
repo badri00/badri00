@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif)]
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
 <h1 align="center">Hi 👋, I'm Badrinath Pathak</h1>
 <h3 align="center">A passionate full-stack developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif">
